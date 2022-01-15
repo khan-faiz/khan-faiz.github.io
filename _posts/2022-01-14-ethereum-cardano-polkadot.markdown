@@ -14,7 +14,7 @@ The blockchain then, is the state of the ledger, or balances, and is the prime p
 
 But what if the Bitcoin protocol had more functionality than just sending and receiving these secured bits, the bitcoins? In fact, the Bitcoin protocol originally had additional functionality beyond this, but was removed early in the development cycle as it was found to increase the attack surface area by a large margin. It would be several years before a project called Ethereum would launch in order to add back functionality removed from the original Bitcoin protocol.
 
-![](img/how_the_bitcoin_blockchain_works.jpg)
+![](/assets/how_the_bitcoin_blockchain_works.jpg)
 
 ### Ethereum (ETH)
 
@@ -24,7 +24,7 @@ Specifically, the Ethereum Virtual Machine, or EVM, which is embedded in every E
 
 While I won't go in depth here, I would be willing to elaborate on finer aspects of the Ethereum protocol in the discussion. It suffices to analogize Ethereum and other smart contract platforms like it as trying to solve the problem of *programmable money* in a safe, secure and scalable way. The most popular smart contracts platform in use today, it has an enormous number of decentralized applications running on top of its chain. The programming language used to write its smart contracts is known as Solidity, a language specific to smart contract creation that resembles Python.
 
-![](img/blockchain_fundamentals_screenshot_ethereum-100761608-orig.jpg)
+![](/assets/blockchain_fundamentals_screenshot_ethereum-100761608-orig.jpg)
 
 ### Cardano (ADA)
 
@@ -33,13 +33,13 @@ Cardano is a relative newcomer, launched in 2017, it aims to introduce *formal v
 Cardano aims to launch its platform in stages, and its smart contract functionality *is not yet fully up and running*, however, it aims to complete this by the end of the year. The Plutus smart contract platform is designed and written in Haskell.
 
 A rough idea of the Cardano roadmap is given in the image below (currently Goguen will launch this summer, to give a general idea):
-![](img/Cardano-Roadmap.png)
+![](/assets/Cardano-Roadmap.png)
 
 ### Polkadot (DOT)
 
 The newest of the smart contract competitors, Polkadot's allure is its commitment to scalability. The network launched in May of 2020, it aims to be a base layer which other blockchains connect into. The description can get technical, but essentially Polkadot is a "meta-chain" which allows for secondary blockchains ("relay chains") to lease computation time and thus security from the main network. It is a "chain of chains" in that sense. All governance decisions are made by holders of the DOT token, and the main chain is secured by a variation of proof of stake. Developers who wish to make their own applications then create their own blockchain and plug into the main network as needed. Toolchains for Polkadot are written in Rust. (Further reading: https://polkadot.network/an-updated-overview-of-polkadot/)
 
-![polkadot-chain|606x499](img/polkadot-chain.jpg) 
+![](/assets/polkadot-chain.jpg) 
 
 **I didn't want to clutter up this thread with more information, so I will save funding avenues for another post. I will say briefly that each of these projects has a grants program that we would be able to apply to with the right idea, so I think if we discuss these projects in broad terms it would help me figure out what to focus on for the next topic. I've also included some 'deep reading' links for those who are looking for more info, below.**
 
