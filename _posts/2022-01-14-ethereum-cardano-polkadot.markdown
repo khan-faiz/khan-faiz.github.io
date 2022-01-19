@@ -1,5 +1,3 @@
-### Date: Apr 17, '21 5:25 PM
-Hello guys,
 
 I would just like to briefly discuss three major projects I have been following for awhile now, introduce them and give information about what kinds of projects are possible with these platforms, and hopefully open a broader discussion. My hope here is to give a broad idea of possible funding avenues as well.
 
@@ -41,9 +39,8 @@ The newest of the smart contract competitors, Polkadot's allure is its commitmen
 
 ![](/assets/polkadot-chain.jpg) 
 
-**I didn't want to clutter up this thread with more information, so I will save funding avenues for another post. I will say briefly that each of these projects has a grants program that we would be able to apply to with the right idea, so I think if we discuss these projects in broad terms it would help me figure out what to focus on for the next topic. I've also included some 'deep reading' links for those who are looking for more info, below.**
+**I've also included some 'deep reading' links for those who are looking for more info, below.**
 
-*EDIT: I've made another post on various funding sources for each of these communities: https://americanfreedoms.org/t/funding-sources-within-various-communities/18?u=strayneutrino*
 
 
 

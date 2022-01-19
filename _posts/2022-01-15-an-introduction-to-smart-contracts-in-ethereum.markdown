@@ -1,4 +1,3 @@
-### Date: Apr 25, '21 11:32 PM
 
 As a precursor to my in-progress **NFT Minting** article, I've gone ahead and wrote an intro to smart contract programming in Ethereum. I've included a TOC/Outline to jump around below. This is a technical topic.
 <div markdown="1" align="center"> 
