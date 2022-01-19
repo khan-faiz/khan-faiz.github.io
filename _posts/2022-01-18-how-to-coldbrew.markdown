@@ -4,7 +4,7 @@
 ![](/assets/howtocoldbrew/arabicacoffee9.jpg)
 *Arabica coffee beans, a necessary ingredient*
 
-Anecdotally the flavor of cold-brew is less bitter, and due to an increase in relative strength, one can stretch the usual bag of beans quite a bit more than usual, which may be desired for flavor-chasers and penny-pinchers. Due to the lack of heat in the extraction of compounds, and the increase in brew time from the coffee, you have differences in flavor profile and caffiene content from typical methods involving heat[^2]. 
+Anecdotally the flavor of cold-brew is less bitter, and due to an increase in relative strength, one can stretch the usual bag of beans quite a bit more than usual, which may be desired for flavor-chasers and penny-pinchers. Due to the lack of heat in the extraction of compounds, and the increase in brew time from the coffee, you have differences in flavor profile and caffiene content from typical methods[^2]. 
 
 This short guide aims to describe a rough methodology to making cold-brew coffee for the inquisitive and curious. Fellows who embark on this path will be rewarded with robust flavor and (if desired) additional strength in their future brews. 
 
@@ -20,7 +20,7 @@ The first step is to open your bag of jelly beans. If your beans are solid (whol
 ![](/assets/howtocoldbrew/coarsegrounds.jpeg)
 *Your grounds may look like rock, rubble or gravel*
 
-Ideally, your beans are crushed in a compactor, but barring ready access to such equipment, a handheld grinder (manual or otherwise) will suffice. In the absence of this machinery still your beans will require physical massage on pavement. In all cases, a fine grind is unnecessary (and harmful to the final result) so fret not if stones and projectile motion are the road taken here.
+Ideally, your beans are crushed in a compactor, but barring ready access to such equipment, a handheld grinder (manual or otherwise) will suffice. In the absence of this machinery, still your beans will require physical massage on pavement. In all cases, a fine grind is unnecessary (and harmful to the final result) so fret not if stones and projectile motion are the road taken here.
 
 #### **Step 2: Measure and Pour**
 
@@ -60,7 +60,7 @@ Serve cold, over ice, milk or microwave if you must have a hot beverage. Congrat
 
 #### **Closing Remarks**
 
-Caffeine is one of the sacred chemicals of the American experience, and until you have it coursing in your blood, I can say that you have not really lived. It should be approached with appreciation, reverence and caution in every case. I hope you have learned something of value reading this post, please know that I feel much pleasure now the techniques of cold brew have been passed on. Do share your learnings amongst the rest of the tribe when you return, I hope to hear of your adventures soon, fellow traveler.
+Caffeine is one of the sacred chemicals of the American experience, and until you have it coursing in your blood, I can say that you have not really lived. It should be approached with appreciation, reverence and caution in every case. I hope you have learned something of value reading this post, please know that I feel much pleasure now that the techniques of cold brew have been passed on. Do share your learnings amongst the rest of the tribe when you return, I hope to hear of your adventures soon, fellow traveler.
 
 ![](/assets/howtocoldbrew/triumph.jpg)
 
